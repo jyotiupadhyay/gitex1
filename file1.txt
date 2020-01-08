@@ -1,0 +1,1 @@
+Hi file1.txt committed in hotfix"
