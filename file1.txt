@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hi File 1 is modified once
 File 1 is modified again
 =======
  hi this is file1
 >>>>>>> fututre_branch
+=======
+Hi file1.txt committed in hotfix"
+>>>>>>> hotfix_branch
