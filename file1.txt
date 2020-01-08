@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi File 1 is modified once
 File 1 is modified again
+=======
+ hi this is file1
+>>>>>>> fututre_branch
